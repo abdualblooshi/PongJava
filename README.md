@@ -2,7 +2,7 @@
 
 ## Getting Started
 
-I'm taking a Java Course in university, so I've decided to try and create the famous Pong game using Java.
+A small really bugged Java game I created while taking a course in university..
 
 ## Folder Structure
 
